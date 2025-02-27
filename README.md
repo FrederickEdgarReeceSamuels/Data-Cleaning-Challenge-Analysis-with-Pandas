@@ -19,6 +19,6 @@ The dataset was generated for learning purposes. It mimics real-world e-commerce
 ## How to Run:
 1. Clone the Repository:
    ```bash
-git clone https://github.com/FrederickEdgarReeceSamuels/Data-Cleaning-Challenge-Analysis-with-Pandas.git
+   git clone https://github.com/FrederickEdgarReeceSamuels/Data-Cleaning-Challenge-Analysis-with-Pandas.git
 
 2. Open Jupyter Notebook and run the .ipynb file.
