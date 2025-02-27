@@ -25,9 +25,11 @@ The dataset was generated for learning purposes. It mimics real-world e-commerce
 2. Navigate to the Project Directory:
 
 Move into the cloned repository (it will have the same name as the repository)
+
   
  ```bash
    cd Data-Cleaning-Challenge-Analysis-with-Pandas
+
 
 (If you cloned it into a different location or renamed the folder, adjust the directory name accordingly.)
 
