@@ -6,7 +6,7 @@ This project demonstrates data cleaning techniques using Pandas in Python. It in
 - Removing Duplicates: Ensuring unique records.
 - Converting Data Types: Formatting date/time and numeric data.
 - Revenue Analysis: Calculating total revenue and customer insights.
-- Data Visualization: Bar charts for top-selling products.
+- Data Visualization: Bar chart for top-selling products.
 
 ## Tools Used:
 - Python
