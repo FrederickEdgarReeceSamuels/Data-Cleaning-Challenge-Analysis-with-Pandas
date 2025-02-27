@@ -24,17 +24,20 @@ The dataset was generated for learning purposes. It mimics real-world e-commerce
 
 2. Navigate to the Project Directory:
 
-cd Data-Cleaning-Challenge-Analysis-with-Pandas
+   ```bash
+   cd Data-Cleaning-Challenge-Analysis-with-Pandas
 
 
 3. Install Required Packages: Ensure you have Python installed. Install the necessary packages using:
 
-pip install pandas numpy matplotlib seaborn
+   ```bash
+   pip install pandas numpy matplotlib seaborn
 
 
 4. Open Jupyter Notebook: Launch Jupyter Notebook:
 
-jupyter notebook
+   ```bash
+   jupyter notebook
 
 
 5. Run the Notebook: In Jupyter, open Data Cleaning Challenge Analysis with Pandas.ipynb and execute the cells sequentially.
